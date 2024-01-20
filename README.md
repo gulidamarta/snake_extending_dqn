@@ -1,1 +1,1 @@
-# snake_extending_dqn
+# Snake
