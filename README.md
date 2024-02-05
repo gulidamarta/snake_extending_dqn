@@ -1,7 +1,10 @@
 **Project - DQN Extensions**
-This project is pytorch implementation of DQN Extensions on MinAtar/SpaceInvaders-v1 Environment. The extensions implemented are,
-- DDQN
-- Duelling DQN
-- Prioritized Replay Buffer
 
+**Overview**
+This project aims to implement various Deep Q-Network (DQN) extensions and enhancements for solving the MinAtar - SpaceInvaders environment. The extensions included are:
+
+- Double DQN (DDQN)
+- Dueling Double DQN (Dueling DDQN)
+- Prioritized Experience Replay Buffer
+- Different epsilon decay methods
 
