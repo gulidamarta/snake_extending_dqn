@@ -6,5 +6,5 @@ This project aims to implement various Deep Q-Network (DQN) extensions and enhan
 - Double DQN (DDQN)
 - Dueling Double DQN (Dueling DDQN)
 - Prioritized Experience Replay Buffer
-- Different epsilon decay methods
+- Different decay methods
 
